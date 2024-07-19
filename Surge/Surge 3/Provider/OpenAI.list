@@ -1,8 +1,10 @@
 # > ChatGPT
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 
 # > Chat GPT API & CDN
+DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -12,13 +14,21 @@ DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
-# > New Bing
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
 
 # > Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
-# > Bard
-DOMAIN,bard.google.com
+# > Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+
+# > Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# > Meta AI
+DOMAIN-SUFFIX,meta.ai
+
+# > Perplexity AI
+DOMAIN-SUFFIX,perplexity.ai

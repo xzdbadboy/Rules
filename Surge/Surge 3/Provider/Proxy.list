@@ -28,6 +28,11 @@ DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,riotgames.com
 
+# > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
@@ -199,6 +204,7 @@ DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedsportal.com
+DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,fiftythree.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flexibits.com
@@ -227,6 +233,8 @@ DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,gmodules.com
@@ -596,6 +604,7 @@ DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wwitv.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xanga.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
